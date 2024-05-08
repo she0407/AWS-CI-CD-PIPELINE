@@ -18,6 +18,5 @@ EXPOSE 5000
 
 # Set environment variables, if necessary
 # ENV MY_ENV_VAR=value
-
 # Run the Flask application
 CMD ["python", "app.py"]
